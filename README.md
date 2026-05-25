@@ -1,3 +1,3 @@
 # DSA with Patterns
-##List of Patterns: 
+## List of Patterns: 
  1. Two Pointers
