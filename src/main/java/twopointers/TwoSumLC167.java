@@ -11,7 +11,7 @@ public class TwoSumLC167 {
     }
 
     public int[] twoSum(int[] numbers, int target) {
-        //array is sorted, consider 2 pointers pattern
+        //array is sorted/ asked to find pair(like here), triplet, etc / consider 2 pointers pattern
         int [] result = new int[2];
         int lo = 0, hi = numbers.length-1;
         while(lo < hi){
