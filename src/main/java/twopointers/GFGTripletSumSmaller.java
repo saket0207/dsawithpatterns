@@ -12,13 +12,11 @@ public class GFGTripletSumSmaller {
             int lo = i + 1, hi = n - 1;
             while(lo < hi){
                 int tripletSum = arr[i] + arr[lo] + arr[hi];
-                if(tripletSum < sum){
-
-                    count = count + (hi - lo);
+                if(tripletSum < sum){ //we are interested in only when tripletSum is less than target sum
+                    count = count + (hi - lo); // anything between lo and high will result in triplet smaller than target
                     lo++;
                 }else{
                     hi--;
-
                 }
             }
         }
