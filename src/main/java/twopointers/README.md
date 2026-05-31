@@ -7,3 +7,4 @@
 4. Asked to find pair/triplet/quadruplet
 5. Detect Cycle in Linked List
 6. Merge / Remove Duplicate is the ask
+7. In Place rearrangement in Arrays
