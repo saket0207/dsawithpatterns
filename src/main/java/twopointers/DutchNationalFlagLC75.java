@@ -2,6 +2,8 @@ package twopointers;
 
 public class DutchNationalFlagLC75 {
 
+    //Rearrange array
+    //in Place rearrangement
     public void sortColors(int[] arr) {
         int lo = 0, mid = 0, hi = arr.length - 1;
 
