@@ -1,4 +1,4 @@
-package twopointers;
+package com.dsa.twopointers;
 
 class ListNode {
       int val;

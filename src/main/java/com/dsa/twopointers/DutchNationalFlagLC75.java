@@ -1,4 +1,4 @@
-package twopointers;
+package com.dsa.twopointers;
 
 public class DutchNationalFlagLC75 {
 

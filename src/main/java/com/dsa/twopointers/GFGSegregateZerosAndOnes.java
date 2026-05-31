@@ -1,4 +1,4 @@
-package twopointers;
+package com.dsa.twopointers;
 
 public class GFGSegregateZerosAndOnes {
     //Question has input in Arrays/ sorted or sorting(like here) will make easy/rearrange(like here)
