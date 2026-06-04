@@ -3,7 +3,10 @@ package com.dsa.slidingwindow;
 public class MaxSumSubArrGFG {
 
     public int maxSubArraySum(int[] arr, int k) {
-        // Code here
+        // Question of array
+        // Question says check sub array of size K
+        // Question says maximum sum of Sub array of Size K
+        // Consider Sliding window
 
         int i = 0, j = 0, sum = 0, maxSum = 0;
         while(j < k){
