@@ -12,5 +12,5 @@
 6. At most K / At least K
 
 Windows can be of
-1. Fixed size
-2. Variable size
+1. Fixed size - Size of the window will be given by saying subarray / substring of K size
+2. Variable size - Size will not be given but will be asked to find minimum / maximum length of subarray of substring
