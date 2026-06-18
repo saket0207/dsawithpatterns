@@ -1,4 +1,4 @@
-package com.dsa.slidingwindow;
+package com.planetcode.dsa.slidingwindow;
 
 public class MaxSumSubArrGFG {
 

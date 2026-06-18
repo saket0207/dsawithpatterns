@@ -1,4 +1,4 @@
-package com.dsa.twopointers;
+package com.planetcode.dsa.twopointers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
